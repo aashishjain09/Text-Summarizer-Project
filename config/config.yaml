@@ -2,7 +2,7 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/aashishjain09/Text-Summarizer-Project/raw/refs/heads/main/data_bank/samsumdata.zip
+  source_URL: https://github.com/aashishjain09/Text-Summarizer-Project/raw/refs/heads/main/data_bank/samsum_dataset.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
   
